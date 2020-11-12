@@ -1,5 +1,6 @@
 # pathfinding-simulator
 Pathfinding simulator software for my Thesis.
+Work in progress...
 
 Plotting requires matplotlib
 
