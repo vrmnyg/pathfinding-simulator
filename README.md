@@ -1,6 +1,8 @@
 # pathfinding-simulator
 Pathfinding simulator software for my Thesis.
 
+Plotting requires matplotlib
+
 Main classes:
 
 Main
